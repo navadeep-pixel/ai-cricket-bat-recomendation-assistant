@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Bat Advisor",
+  "description": "An expert recommendation system that advises you on the perfect cricket bat size, weight, profile, and budget-friendly custom options based on age, height, batting style, level, and cost.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
